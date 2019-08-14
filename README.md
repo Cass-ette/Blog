@@ -1,2 +1,2 @@
-# LegendsRepository-
-IT
+# Someone's blog
+
