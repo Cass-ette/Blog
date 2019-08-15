@@ -39,3 +39,15 @@
 ##### 网络流：
 
 ##### 最短路：
+
+暂存代码：
+```c++
+#include<cstdio>
+using namespace std;
+int main()
+{
+	freopen(".in","r",stdin);
+	freopen(".out","w",stdout);
+}
+
+```
