@@ -1,8 +1,4 @@
 # For League of Legends
-[未完成，先右转——>CSDN博客](https://blog.csdn.net/qq_31567525)
-
+![avatar](//opgg-static.akamaized.net/images/lol/champion/Warwick.png?image=q_auto,w_140&v=1578479159)
 ----------------------------
 
-暂存代码：
-```cpp
-```
