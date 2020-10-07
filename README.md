@@ -16,7 +16,7 @@
 
 官网题解上有严格证明说，这样的情况，数列项数不会超过36项
 
-![](https://github.com/Cass-ette/Tried-Solutions/blob/master/1138649-20171108175311684-293574685.jpg)
+![image](https://github.com/Cass-ette/Tried-Solutions/blob/master/1138649-20171108175311684-293574685.jpg)
 
 这样的话，直接暴力前几项，然后对集合排个序就可以高辣......
 
